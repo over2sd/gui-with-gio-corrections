@@ -41,6 +41,7 @@ case system.FrameEvent:
         layout.Rigid(),
     }
 ```
+Since this is the first time we're using layout, be sure to add `	"gioui.org/layout"` to your imports.
 
 ### Comments
 
