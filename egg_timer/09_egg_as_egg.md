@@ -12,7 +12,7 @@ Updated to Gio 0.8.0 as of April 4th 2025
 
 ## Goals
 
-The intent of this section is to draw an actual egg.
+The intent of this section is to draw an actual egg and change its color as the progress bar fills.
 
 ![An actual egg](09_egg_as_egg.gif)
 
